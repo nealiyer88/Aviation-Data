@@ -41,15 +41,18 @@ The analysis involved several key steps, including:
 
 **Safest Aircraft:* The analysis highlighted Cessna (single-engine) and Piper (dual-engine) aircraft as having the lowest percentages of injuries, suggesting they are among the safest choices for investment.
 
-![alt text](image.png)
+![Image description](https://raw.githubusercontent.com/nealiyer88/Aviation-Data/master/Images/image-2.png)
+
 
 **Critical Phases of Flight:* Cruise, Takeoff, and Maneuvering were identified as most prone to incidents and injuries, emphasizing the importance of focused safety measures and training in these areas.
 
-![alt text](image-1.png)
+![Phase of Flight](https://raw.githubusercontent.com/nealiyer88/Aviation-Data/master/Images/image-1.png)
+
 
 **Engine Type:* Boeing Turbo Fan 4 and 2 Engine planes appear to be the most unsafe, with the highest injury percentages, while Cessna 1 Engine Reciprocating has the lowest injury percentage and looks to be the safest choice for engine type.
 
-![alt text](image-2.png)
+![Image description](https://raw.githubusercontent.com/nealiyer88/Aviation-Data/master/Images/image.png)
+
 
 ### **Conclusions**
 
