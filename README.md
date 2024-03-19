@@ -2,48 +2,65 @@ Tableau Dashboard- https://public.tableau.com/app/profile/neal.iyer/viz/Aviation
 
 
 
-## Overview
-This project presents a detailed analysis of an aviation dataset, aiming to uncover insights into aircraft incidents and their implications. Through data inspection, cleaning, exploratory analysis, and visualization, we explore patterns, trends, and anomalies within aviation data to derive meaningful conclusions that could potentially inform safety measures and policy decisions.
-
-## Introduction
-The aviation dataset comprises detailed records of aircraft incidents, including commercial and military flights. The analysis focuses on understanding the underlying patterns of incidents, their causes, frequencies, and the resulting injuries or fatalities. By examining this data, we aim to identify key factors contributing to aviation safety and risk factors associated with different types of flights.
-
-## Prerequisites
-To follow along with this analysis, you will need Python installed on your machine, along with the following libraries:
-
-Pandas: For data manipulation and analysis.
-Matplotlib: For creating visualizations.
+![alt text](https://hdqwalls.com/wallpapers/airplane-04.jpg)
 
 
-## Data Introduction
-The dataset includes records from various sources, detailing incidents involving both commercial and military aircraft over several years. It contains information such as the date of the incident, the type of aircraft, the nature of the incident, and the outcomes, including any injuries or fatalities.
+### **Introduction**
 
-## Analysis Workflow
-Importing Libraries and Data
-The analysis begins with importing the necessary Python libraries and loading the aviation dataset into a Pandas DataFrame for manipulation and analysis.
+This project explores the aviation industry as a potential area for expansion and investment by analyzing historical data on aircraft incidents and accidents. 
 
-## Data Inspection and Cleaning
-Initial data inspection reveals the dataset's structure, including missing values and potential inconsistencies. The cleaning process addresses these issues, ensuring the data is accurate and ready for analysis.
+By examining patterns in the data, the goal is to identify the safest aircraft makes, models, and engine types, as well as the most critical phases of flight in terms of safety.
 
-## Exploratory Data Analysis (EDA)
-The EDA phase involves statistical analysis and visualization techniques to explore the data. Key steps include:
+This analysis will support informed decision-making for purchasing and operating aircraft for commercial and private purposes.
 
--Analyzing the frequency of incidents over time.
+![alt text](image-3.png)
 
--Comparing incident rates between commercial and military flights.
+### **Objectives**
 
--Investigating the relationship between aircraft types and incident outcomes.
+-To identify the lowest risk aircraft makes and models based on historical accident and injury data.
 
--Visualizing the data to highlight trends and patterns.
+-To analyze the phases of flight to determine which are most associated with higher risks of accidents and injuries.
 
-## Findings and Insights
-The analysis uncovers several key insights, such as the most common types of incidents, trends in incident rates over time, and factors that may influence the severity of outcomes. The visualization of data plays a crucial role in communicating these findings.
+-To provide recommendations on aircraft selection and operational focus areas to minimize safety risks and maximize investment returns in the aviation sector.
 
-## Conclusion
-The project concludes with a summary of the findings, highlighting the significant patterns and trends identified in the aviation data. The analysis provides valuable insights into aircraft incidents, offering a basis for further research and potential recommendations for improving aviation safety.
+### **Data**
 
-## Contribution
-This project is a personal academic effort by Neal Iyer. Feedback and contributions are welcome and can be directed to the author through appropriate academic channels.
+The dataset utilized in this project is provided by the National Transportation Safety Board (NTSB), encompassing civil aviation accident and selected incident data from 1962 to 2023. This comprehensive dataset includes detailed information about each event, including but not limited to the aircraft make and model, phase of flight, injury severity, and environmental conditions at the time of the incident.
+
+### **Methods**
+
+The analysis involved several key steps, including:
+     
+* data cleaning
+* exploratory data analysis (EDA)
+* statistical analysis. 
+
+ The methodologies applied aimed to uncover patterns and insights through a data-driven approach, employing various statistical tools and visualization techniques to support the findings.
+
+### **Results**
+
+**Safest Aircraft:* The analysis highlighted Cessna (single-engine) and Piper (dual-engine) aircraft as having the lowest percentages of injuries, suggesting they are among the safest choices for investment.
+
+![alt text](image-2.png)
+
+**Critical Phases of Flight:* Cruise, Takeoff, and Maneuvering were identified as most prone to incidents and injuries, emphasizing the importance of focused safety measures and training in these areas.
+
+![alt text](image-1.png)
+
+**Engine Type:* Boeing Turbo Fan 4 and 2 Engine planes appear to be the most unsafe, with the highest injury percentages, while Cessna 1 Engine Reciprocating has the lowest injury percentage and looks to be the safest choice for engine type.
+
+![alt text](image.png)
+
+### **Conclusions**
+
+The findings from this analysis offer valuable insights into the aviation industry, particularly in identifying safer aircraft and understanding the dynamics of flight safety. By selecting low-risk aircraft and focusing on critical safety areas, potential investors can strategically minimize risks and capitalize on the opportunities within the aviation sector.
+
+
+
+
+
+#### Contribution
+**This project is a personal academic effort by Neal Iyer. Feedback and contributions are welcome and can be directed to the author through appropriate academic channels.*
 
 
 
