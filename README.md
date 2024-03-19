@@ -32,9 +32,9 @@ The dataset utilized in this project is provided by the National Transportation 
 
 The analysis involved several key steps, including:
      
-* data cleaning
-* exploratory data analysis (EDA)
-* statistical analysis. 
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis 
 
  The methodologies applied aimed to uncover patterns and insights through a data-driven approach, employing various statistical tools and visualization techniques to support the findings.
 
